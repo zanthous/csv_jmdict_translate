@@ -1,0 +1,10 @@
+C:\Users\Zanthous\Source\Repos\jmdictthing1\jmdictthing\bin\Debug\jmdictthing.exe.config
+C:\Users\Zanthous\Source\Repos\jmdictthing1\jmdictthing\bin\Debug\jmdictthing.exe
+C:\Users\Zanthous\Source\Repos\jmdictthing1\jmdictthing\bin\Debug\jmdictthing.pdb
+C:\Users\Zanthous\Source\Repos\jmdictthing1\jmdictthing\obj\Debug\jmdictthing.csprojAssemblyReference.cache
+C:\Users\Zanthous\Source\Repos\jmdictthing1\jmdictthing\obj\Debug\jmdictthing.Properties.Resources.resources
+C:\Users\Zanthous\Source\Repos\jmdictthing1\jmdictthing\obj\Debug\jmdictthing.csproj.GenerateResource.cache
+C:\Users\Zanthous\Source\Repos\jmdictthing1\jmdictthing\obj\Debug\jmdictthing.csproj.CoreCompileInputs.cache
+C:\Users\Zanthous\Source\Repos\jmdictthing1\jmdictthing\obj\Debug\jmdictthing.exe
+C:\Users\Zanthous\Source\Repos\jmdictthing1\jmdictthing\obj\Debug\jmdictthing.pdb
+C:\Users\Zanthous\Source\Repos\jmdictthing1\jmdictthing\obj\Debug\jmdictthing.Form1.resources
